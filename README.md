@@ -25,9 +25,3 @@ from sklearn.metrics import mean_squared_error, accuracy_score (ASSESSES HOW GOO
 
 
 **Clustering**
-# My ML Project
-
-This project recommends jobs based on skills using Python and ipywidgets.
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<[username](https://github.com/PremMall)>/<Machine-Learning
->/blob/main/Final_ML_Data_Job.ipynb)
