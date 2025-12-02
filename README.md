@@ -1,3 +1,10 @@
+# My ML Project
+
+This project recommends jobs based on skills using Python and ipywidgets.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/(https://github.com/PremMall)/Machine-Learning
+/blob/main/Final_ML_Data_Job.ipynb)
+
 # Machine-Learning (Python for AI)
 **INTRODUCTION**
 Python language used in the context of machine learning and more specifically how we can use this to build predictions using regression, clustering and classification.
